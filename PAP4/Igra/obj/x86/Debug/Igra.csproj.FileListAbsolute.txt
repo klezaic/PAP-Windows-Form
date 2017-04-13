@@ -1,0 +1,31 @@
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\bin\Debug\Igra.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\bin\Debug\Igra.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\Igra.IgraForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\Igra.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\Igra.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\Igra.pdb
+H:\PAP\25_4\PAP4\Igra\obj\x86\Debug\Igra.exe
+H:\PAP\25_4\PAP4\Igra\obj\x86\Debug\Igra.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\Igra.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\Igra.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\bin\Debug\Igra.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\bin\Debug\Igra.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\Igra.IgraForm.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\Igra.Properties.Resources.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\PAP4\Igra\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\Igra.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Igra\obj\x86\Debug\Igra.pdb
+H:\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.exe
+H:\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\bin\Debug\Igra.exe
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\bin\Debug\Igra.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.IgraForm.resources
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.Properties.Resources.resources
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.csproj.GenerateResource.Cache
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.exe
+D:\Workspace\C#\PAP\6_6\PAP4\Igra\obj\x86\Debug\Igra.pdb

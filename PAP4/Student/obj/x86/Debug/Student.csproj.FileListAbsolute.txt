@@ -1,0 +1,32 @@
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\bin\Debug\Student.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\bin\Debug\Student.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.Properties.Resources.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.Student.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.pdb
+H:\PAP\5_29\PAP4\Student\obj\x86\Debug\Student.exe
+H:\PAP\5_29\PAP4\Student\obj\x86\Debug\Student.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\bin\Debug\Student.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\bin\Debug\Student.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\Student.Student.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Student\obj\x86\Debug\ResGen.write.1.tlog
+H:\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.exe
+H:\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.exe
+D:\Workspace\C#\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Student\bin\Debug\Student.exe
+D:\Workspace\C#\PAP\6_6\PAP4\Student\bin\Debug\Student.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.Properties.Resources.resources
+D:\Workspace\C#\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.Student.resources
+D:\Workspace\C#\PAP\6_6\PAP4\Student\obj\x86\Debug\Student.csproj.GenerateResource.Cache
+D:\GitRepo\PAP-Windows-Form\PAP4\Student\obj\x86\Debug\Student.exe
+D:\GitRepo\PAP-Windows-Form\PAP4\Student\obj\x86\Debug\Student.pdb

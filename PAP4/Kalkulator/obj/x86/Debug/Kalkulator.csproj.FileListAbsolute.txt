@@ -1,0 +1,36 @@
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.KalkulatorForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.KalkulatorForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\Kalkulator\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.KalkulatorForm.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\Kalkulator\obj\x86\Debug\ResGen.write.1.tlog
+H:\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.exe
+H:\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.KalkulatorForm.resources
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.csproj.GenerateResource.Cache
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.exe
+D:\Workspace\C#\PAP\6_6\PAP4\Kalkulator\obj\x86\Debug\Kalkulator.pdb

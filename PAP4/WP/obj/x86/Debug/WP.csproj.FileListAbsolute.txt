@@ -1,0 +1,29 @@
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\bin\Debug\WP.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\bin\Debug\WP.pdb
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.WPForm.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.Properties.Resources.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.exe
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.pdb
+H:\PAP4\WP\obj\x86\Debug\WP.exe
+H:\PAP4\WP\obj\x86\Debug\WP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.WPForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\WP.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\bin\Debug\WP.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\WP\bin\Debug\WP.pdb
+H:\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.exe
+H:\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\WP\bin\Debug\WP.exe
+D:\Workspace\C#\PAP\6_6\PAP4\WP\bin\Debug\WP.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.WPForm.resources
+D:\Workspace\C#\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.Properties.Resources.resources
+D:\Workspace\C#\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.csproj.GenerateResource.Cache
+D:\Workspace\C#\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.exe
+D:\Workspace\C#\PAP\6_6\PAP4\WP\obj\x86\Debug\WP.pdb

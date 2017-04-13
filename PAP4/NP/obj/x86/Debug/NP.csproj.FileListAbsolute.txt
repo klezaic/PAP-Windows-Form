@@ -1,0 +1,45 @@
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\bin\Debug\NP.exe
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\bin\Debug\NP.pdb
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.NP.resources
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.Properties.Resources.resources
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.exe
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.pdb
+c:\users\kr3s1m1r\documents\visual studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.FindForm.resources
+C:\Users\kr3s1m1r\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.ReplaceForm.resources
+H:\PAP\PAP4\NP\obj\x86\Debug\NP.exe
+H:\PAP\PAP4\NP\obj\x86\Debug\NP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\bin\Debug\NP.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\bin\Debug\NP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.FindForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.NP.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\NP.ReplaceForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP4\NP\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\NP.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\NP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\bin\Debug\NP.exe
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\bin\Debug\NP.pdb
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\NP.FindForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\NP.NP.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\NP.Properties.Resources.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\NP.ReplaceForm.resources
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\klezaic\Documents\Visual Studio 2010\Projects\PAP\PAP4\NP\obj\x86\Debug\ResGen.write.1.tlog
+D:\Workspace\C#\PAP\6_6\PAP4\NP\bin\Debug\NP.exe
+D:\Workspace\C#\PAP\6_6\PAP4\NP\bin\Debug\NP.pdb
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.FindForm.resources
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.NP.resources
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.Properties.Resources.resources
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.ReplaceForm.resources
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.csproj.GenerateResource.Cache
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.exe
+D:\Workspace\C#\PAP\6_6\PAP4\NP\obj\x86\Debug\NP.pdb
